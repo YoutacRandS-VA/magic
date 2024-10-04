@@ -16,7 +16,7 @@
     "@angular/cdk": "^14.2.2",
     "@angular/common": "^14.2.3",
     "@angular/compiler": "^14.2.3",
-    "@angular/core": "^14.2.3",
+    "@angular/core": "^14.3.0",
     "@angular/forms": "^14.2.3",
     "@angular/material": "^14.2.2",
     "@angular/platform-browser": "^14.2.3",
@@ -44,7 +44,7 @@
     "zone.js": "~0.11.8"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.10",
+    "@angular-devkit/build-angular": "^18.2.7",
     "@angular/cli": "^14.2.3",
     "@angular/compiler-cli": "^14.2.3",
     "@ngx-formly/schematics": "^6.2.2",
